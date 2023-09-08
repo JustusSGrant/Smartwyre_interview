@@ -1,4 +1,7 @@
-# Smartwyre Developer Justus grant Interview
+# Justus Grant: Smartwyre Developer Interview
+😅 Thank you for considering me for this position. I hope my work here is satisfactory and look forward to having the pleasure of joining the SmartWyre Team. - Justus S Grant
+
+---------------------------------------------------------------------------------------
 1. I've introduced Dependency Injection and refactored this project to use DI.
    
 3. I wrote unit tests for each of the 3 Incentive Types testing both success and failure cases
@@ -14,4 +17,3 @@
 
 7. No longer creating new instances of the data stores inappropriately.
 
-😅 Thank you for considering me for this position. I hope my work here is satisfactory and look forward to having the pleasure of joining the SmartWyre Team. - JSG
