@@ -25,7 +25,6 @@ public static class Program
     private static void CalculateRebate(ServiceProvider serviceProvider)
     {
         var request = new CalculateRebateRequest();
-
         var _rebateService = serviceProvider.GetService<IRebateService>();
         Console.WriteLine("Welcome to Justus Grant's Interview app!");
         Console.WriteLine("I am about to ask for information required to calculate your rebate!.");
