@@ -17,4 +17,4 @@
 
 7. No longer creating new instances of the data stores inappropriately.
 
-** I recognize the TryParse() line in Program.cs (line 36) can throw an error on invalid input. In a production app, I would use TryParse or another means of protecting against invalid input.
+** I recognize the Decimal.Parse() method in Program.cs (line 36) can throw an error on invalid input. In a production app, I would use TryParse or another means of protecting against invalid input.
