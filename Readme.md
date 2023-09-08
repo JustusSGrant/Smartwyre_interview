@@ -1,5 +1,5 @@
 # Justus Grant: Smartwyre Developer Interview
-😅 Thank you for considering me for this position. I completed this assignment using Visual Studio for Mac - so I apologize if Windows users experience weird/inconsistent behavior. I hope my work here is satisfactory and look forward to having the pleasure of joining the Smartwyre Team. - Justus S Grant
+😅 Thank you for considering me for this position. I completed this assignment using Visual Studio for Mac - so I apologize if Windows users experience weird/inconsistent behavior. I hope my work here is satisfactory and look forward to having the pleasure of joining the Smartwyre Team. - Justus Solomon Grant
 
 ---------------------------------------------------------------------------------------
 1. I've introduced Dependency Injection and refactored this project to use DI.
