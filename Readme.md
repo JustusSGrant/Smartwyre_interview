@@ -1,26 +1,17 @@
-# Smartwyre Developer Test Instructions
+# Smartwyre Developer Justus grant Interview
+1. I've introduced Dependency Injection and refactored this project to use DI.
+   
+3. I wrote unit tests for each of the 3 Incentive Types testing both success and failure cases
+<img width="396" alt="Screenshot 2023-09-07 at 10 58 53 PM" src="https://github.com/JustusSGrant/Smartwyre_interview/assets/47908757/d23f4e4f-f661-45fb-bb82-d09027152e16">
 
-In the 'RebateService.cs' file you will find a method for calculating a rebate. At a high level the steps for calculating a rebate are:
+3. I refactored the rebate service to use rebate & product to determine an initial success status. I've left the switch statement checking the rebate's IncentiveType so that the unique business logic associated with each incentive type can be preserved.
 
- 1. Lookup the rebate that the request is being made against.
- 2. Lookup the product that the request is being made against.
- 2. Check that the rebate and request are valid to calculate the incentive type rebate.
- 3. Store the rebate calculation.
+4. I renamed the "Types" namespace to "Models" to be more consistent with conventional naming conventions. 
 
-What we'd like you to do is refactor the code with the following things in mind:
+5. I used Moq and NUnit to write the unit tests instead of using XUnit. 🙏🏿  Please don't take points away for this. It was intentional and a result of my own personal preference. I am still following the 3 A's of unit testing (Arrange, Act, Assert)
 
- - Adherence to SOLID principles
- - Testability
- - Readability
- - In the future we will add many more incentive types. Determining the incentive type should be made as easy and intuitive as possible for developers who will edit this in the future.
+6. All services and data stores are referenced by their interfaces instead of being directly referenced.
 
-We’d also like you to 
- - Add some unit tests to the Smartwyre.DeveloperTest.Tests project to show how you would test the code that you’ve produced 
- - Run the RebateService from the Smartwyre.DeveloperTest.Runner console application accepting inputs
+7. No longer creating new instances of the data stores inappropriately.
 
-The only specific 'rules' are:
-
-- The solution should build
-- The tests should all pass
-
-You are free to use any frameworks/NuGet packages that you see fit. You should plan to spend around 1 hour completing the exercise.
+😅 Thank you for considering me for this position. I hope my work here is satisfactory and look forward to having the pleasure of joining the SmartWyre Team. - JSG
