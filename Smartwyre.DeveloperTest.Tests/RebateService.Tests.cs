@@ -32,7 +32,7 @@ public class RebateServiceTests
         {
             ProductIdentifier = "PROD_ID_3E783",
             RebateIdentifier = "REB_ID_34KD94",
-            Volume = 3.159m
+            Volume = 3.14159m
         };
 
         var rebateResponse = new Rebate()
@@ -73,7 +73,7 @@ public class RebateServiceTests
         {
             ProductIdentifier = "PROD_ID_3E783",
             RebateIdentifier = "REB_ID_34KD94",
-            Volume = 3.159m
+            Volume = 3.14159m
         };
 
         var rebateResponse = new Rebate()
@@ -119,7 +119,7 @@ public class RebateServiceTests
         {
             ProductIdentifier = "PROD_ID_3E783",
             RebateIdentifier = "REB_ID_34KD94",
-            Volume = 3.159m
+            Volume = 3.14159m
         };
 
         var rebateResponse = new Rebate()
@@ -161,7 +161,7 @@ public class RebateServiceTests
         {
             ProductIdentifier = "PROD_ID_3E783",
             RebateIdentifier = "REB_ID_34KD94",
-            Volume = 3.159m
+            Volume = 3.14159m
         };
 
         var rebateResponse = new Rebate()
@@ -206,7 +206,7 @@ public class RebateServiceTests
         {
             ProductIdentifier = "PROD_ID_3E783",
             RebateIdentifier = "REB_ID_34KD94",
-            Volume = 3.159m
+            Volume = 3.14159m
         };
 
         var rebateResponse = new Rebate()
