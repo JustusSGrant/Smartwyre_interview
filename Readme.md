@@ -9,7 +9,7 @@
 
 3. I refactored the rebate service to use rebate & product to determine an initial success status. I've left the switch statement checking the rebate's IncentiveType so that the unique business logic associated with each incentive type can be preserved.
 
-4. I renamed the "Types" namespace to "Models" to be more consistent with conventional naming conventions. 
+4. I renamed the "Types" namespace to "Models" to be more consistent with conventional naming practices. 
 
 5. I used Moq and NUnit to write the unit tests instead of using XUnit. 🙏🏿  Please don't take points away for this. It was intentional and a result of my own personal preference. I am still following the 3 A's of unit testing (Arrange, Act, Assert)
 
