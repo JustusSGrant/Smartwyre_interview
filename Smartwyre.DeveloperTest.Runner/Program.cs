@@ -18,17 +18,13 @@ public static class Program
             .AddSingleton<IProductDataStore, ProductDataStore>()
             .AddSingleton<IRebateDataStore, RebateDataStore>()
             .BuildServiceProvider();
+        
         CalculateRebate(serviceProvider);
     }
 
     private static void CalculateRebate(ServiceProvider serviceProvider)
     {
-        var request = new CalculateRebateRequest()
-        {
-            RebateIdentifier = String.Empty,
-            ProductIdentifier = String.Empty,
-            Volume = 0m
-        };
+        var request = new CalculateRebateRequest();
 
         var _rebateService = serviceProvider.GetService<IRebateService>();
         Console.WriteLine("Welcome to Justus Grant's Interview app!");
