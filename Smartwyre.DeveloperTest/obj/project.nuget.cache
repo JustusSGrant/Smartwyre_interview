@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJeLYTDh58MTwnz90VGUusE0g3xiz/lkoZ6xAiYOzYjBZBBCOhVPaCHwy5yc9rNfY2vTKNbZE/C2RsxzZ9gpEw==",
+  "success": true,
+  "projectFilePath": "/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/justus/.nuget/packages/coverlet.msbuild/6.0.0/coverlet.msbuild.6.0.0.nupkg.sha512",
+    "/Users/justus/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/justus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

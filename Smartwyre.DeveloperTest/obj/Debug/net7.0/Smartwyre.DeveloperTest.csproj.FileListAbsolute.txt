@@ -1,0 +1,12 @@
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/bin/Debug/net7.0/Smartwyre.DeveloperTest.deps.json
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/bin/Debug/net7.0/Smartwyre.DeveloperTest.dll
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/bin/Debug/net7.0/Smartwyre.DeveloperTest.pdb
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.AssemblyInfoInputs.cache
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.AssemblyInfo.cs
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.csproj.CoreCompileInputs.cache
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.dll
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/refint/Smartwyre.DeveloperTest.dll
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.pdb
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/ref/Smartwyre.DeveloperTest.dll
+/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest/obj/Debug/net7.0/Smartwyre.DeveloperTest.csproj.AssemblyReference.cache
