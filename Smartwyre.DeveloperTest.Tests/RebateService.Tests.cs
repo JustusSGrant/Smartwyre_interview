@@ -61,9 +61,9 @@ public class RebateServiceTests
             .Verifiable();
 
         var result = _target.Calculate(testRequest);
-        Assert.That(result.Success, Is.True);
         _rebateDataStore.Verify();
         _productDataStore.Verify();
+        Assert.That(result.Success, Is.True);
     }
 
     [Test]
@@ -102,9 +102,9 @@ public class RebateServiceTests
             .Verifiable();
 
         var result = _target.Calculate(testRequest);
-        Assert.That(result.Success, Is.False);
         _rebateDataStore.Verify();
         _productDataStore.Verify();
+        Assert.That(result.Success, Is.False);
     }
 
     #endregion
@@ -149,9 +149,9 @@ public class RebateServiceTests
 
 
         var result = _target.Calculate(testRequest);
-        Assert.That(result.Success, Is.True);
         _rebateDataStore.Verify();
         _productDataStore.Verify();
+        Assert.That(result.Success, Is.True);
     }
 
     [Test]
@@ -191,9 +191,9 @@ public class RebateServiceTests
 
 
         var result = _target.Calculate(testRequest);
-        Assert.That(result.Success, Is.False);
         _rebateDataStore.Verify();
         _productDataStore.Verify();
+        Assert.That(result.Success, Is.False);
     }
     #endregion
 
@@ -236,9 +236,9 @@ public class RebateServiceTests
 
 
         var result = _target.Calculate(testRequest);
-        Assert.That(result.Success, Is.True);
         _rebateDataStore.Verify();
         _productDataStore.Verify();
+        Assert.That(result.Success, Is.True);
     }
 
     [Test]
@@ -278,9 +278,9 @@ public class RebateServiceTests
 
 
         var result = _target.Calculate(testRequest);
-        Assert.That(result.Success, Is.False);
         _rebateDataStore.Verify();
         _productDataStore.Verify();
+        Assert.That(result.Success, Is.False);
     }
     #endregion
 }
