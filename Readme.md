@@ -18,3 +18,4 @@
 7. No longer creating new instances of the data stores inappropriately.
 
 ** I recognize the Decimal.Parse() method in Program.cs (line 36) can throw an error on invalid input. In a production app, I would use TryParse or another means of protecting against invalid input.
+** I would also suggest adding the calculated rebate amount to the response object so that it can be reported directly back to the user. 
