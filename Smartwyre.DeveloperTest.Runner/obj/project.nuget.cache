@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GukqKMb4XalPkKScmlTxR2Lyy2zQOl39CwBEKDyJtkzIz+m/whV1VHpvlangnYZNLXm6w50ZO0GWQnARhOgg7A==",
+  "success": true,
+  "projectFilePath": "/Users/justus/Downloads/developer-interview-test-main/Smartwyre.DeveloperTest.Runner/Smartwyre.DeveloperTest.Runner.csproj",
+  "expectedPackageFiles": [
+    "/Users/justus/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/justus/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
